@@ -21,4 +21,4 @@ The linked pull requests show their current review and merge status.
 
 ## Development approach
 
-Small, independently testable components; explicit data and security boundaries; automated checks followed by runtime verification. I use AI-assisted tooling with code review and documented validation limits.
+Small, independently testable components; explicit data and security boundaries; automated checks followed by runtime verification and documented validation limits.
