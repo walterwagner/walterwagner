@@ -16,6 +16,7 @@ Both repositories include setup instructions, validation evidence and known limi
 - [Qdrant catalog for Plural](https://github.com/pluralsh/scaffolds/pull/74): persistent vector storage and stable API authentication.
 - [Valkey catalog for Plural](https://github.com/pluralsh/scaffolds/pull/77): stable ACL credentials, retained storage and authenticated readiness.
 - [NATS JetStream catalog for Plural](https://github.com/pluralsh/scaffolds/pull/78): Secret-backed authentication and persistent message streams.
+- [Meilisearch catalog for Plural](https://github.com/pluralsh/scaffolds/pull/79): managed master-key authentication and persistent search indexes.
 
 The linked pull requests show their current review and merge status.
 
